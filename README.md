@@ -1,4 +1,4 @@
 # CLRScode
-Pseudo code Python realization
-And my study notes
+Pseudo code Python realization  
+And my study notes  
 Updating...
